@@ -1,0 +1,4 @@
+﻿  main.cpp
+e:\vs_work\github\extract_pd_raw\extract_pd_raw_from_pure_raw\extrack_pd_raw_from_pure_raw\main.cpp(47): warning C4244: “初始化”: 从“__int64”转换到“unsigned int”，可能丢失数据
+  Extrack_PD_RAW_From_Pure_Raw.vcxproj -> E:\VS_work\GitHub\Extract_PD_RAW\Extract_PD_RAW_From_Pure_RAW\Debug\Extrack_PD_RAW_From_Pure_Raw.exe
+  Extrack_PD_RAW_From_Pure_Raw.vcxproj -> E:\VS_work\GitHub\Extract_PD_RAW\Extract_PD_RAW_From_Pure_RAW\Debug\Extrack_PD_RAW_From_Pure_Raw.pdb (Partial PDB)
